@@ -34,7 +34,7 @@ Tenho mais de 8 anos de experiência em:
 
 ## 📫 Contato
 
-- LinkedIn: (adicione aqui)
-- Email: (adicione aqui)
+- LinkedIn: linkedin.com/in/rgds
+- Email: contato.rgsantos@gmail.com
 
 Obrigado por visitar meu perfil!
