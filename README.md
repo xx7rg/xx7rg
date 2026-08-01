@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Rogério Gomes
+# Hola! Soy Rogério Gomes
 
 ### 💻 Especialista en Tecnologías de la Información | Infraestructura | Desarrollo | Inteligencia Artificial
 
