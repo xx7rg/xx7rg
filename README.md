@@ -73,52 +73,87 @@ Siempre busco aprender nuevas tecnologías y desarrollar soluciones eficientes p
 
 ---
 
-# 📂 Proyectos Destacados
+# 📂 Proyectos destacados
 
-### 📱 Appointment System
+Desarrollo productos para necesidades concretas y exploro nuevas formas de interacción mediante demostraciones visuales. Aquí puedes distinguir los **productos en desarrollo**, las **demos de portafolio** y un **proyecto web aplicado**.
 
-Sistema de gestión de citas para profesionales autónomos con:
+## 📱 Productos en desarrollo
 
-- Gestión de clientes
-- Agenda
-- Servicios
-- Integración con WhatsApp
-- Plan Gratuito y Premium
+| Producto | Problema que busca resolver | Enfoque |
+| --- | --- | --- |
+| **AquaControl** | Organizar el trabajo de mantenimiento de piscinas y el seguimiento de las visitas técnicas. | Gestión operativa, perfiles de usuario, registros y sincronización sin conexión. |
+| **AquaQuest** | Ayudar a mantener la constancia al registrar el consumo de agua. | Metas diarias, recordatorios y evolución de una mascota virtual. |
+| **WorkTrack** | Reunir horas trabajadas, ingresos, gastos y pagos pendientes en un mismo lugar. | Panel de seguimiento por trabajo y cliente, con objetivos semanales y mensuales. |
+| **Neon Blockfall** | Ofrecer partidas de arcade que puedan disfrutarse sin conexión. | Juego de bloques para Android, progresión y desafíos. |
 
----
+**Estado:** proyectos en desarrollo con repositorios privados. Esta sección presenta su propósito; no anuncia una versión pública ni enlaza código privado. Para conocerlos, puedes [contactarme](mailto:contato.rgsantos@gmail.com).
 
-### 🎮 ColorStack
+## 🎨 Demostraciones de portafolio
 
-Juego móvil desarrollado en Python utilizando Kivy.
+Estas experiencias muestran diseño de interacción y desarrollo de interfaces. Los accesos y pagos son simulados: no autentican usuarios ni procesan transacciones reales.
 
-Características:
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💡 LIGHT — Login Experience</h3>
+      <a href="https://light-login-x7rg.contato-rgsantos.workers.dev">
+        <img src="https://raw.githubusercontent.com/xx7rg/Light-Login/main/public/og-v3.png" alt="Presentación de LIGHT: interfaz de acceso con iluminación interactiva" width="440" />
+      </a>
+      <p><strong>Reto:</strong> convertir un formulario de acceso en una experiencia que responda a la interacción del usuario.</p>
+      <p>Un cordón controla la luz del abajur, las transiciones de la interfaz y los efectos de sonido.</p>
+      <p><sub>Next.js · React · TypeScript · Web Audio API</sub></p>
+      <p><a href="https://light-login-x7rg.contato-rgsantos.workers.dev"><strong>Ver demo ↗</strong></a> · <a href="https://github.com/xx7rg/Light-Login">Ver código</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌕 Login The Moon</h3>
+      <a href="https://login-the-moon-x7rg.contato-rgsantos.workers.dev">
+        <img src="https://raw.githubusercontent.com/xx7rg/Login-The-Moon/main/docs/images/01-login-inicial.png" alt="Pantalla inicial de Login The Moon con ambientación espacial" width="440" />
+      </a>
+      <p><strong>Reto:</strong> dar personalidad y una respuesta visual clara a una experiencia de acceso.</p>
+      <p>Una escena lunar acompaña el formulario y sus estados, con una composición adaptable a distintas pantallas.</p>
+      <p><sub>Next.js · React · TypeScript · CSS</sub></p>
+      <p><a href="https://login-the-moon-x7rg.contato-rgsantos.workers.dev"><strong>Ver demo ↗</strong></a> · <a href="https://github.com/xx7rg/Login-The-Moon">Ver código</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 Checkout interactivo</h3>
+      <a href="https://checkout-x7rg.contato-rgsantos.workers.dev">
+        <img src="https://raw.githubusercontent.com/xx7rg/Checkout/main/docs/screenshots/checkout-overview.jpg" alt="Vista general del checkout con tarjeta tridimensional" width="440" />
+      </a>
+      <p><strong>Reto:</strong> hacer más comprensible el proceso de introducir los datos de una tarjeta y revisar una compra.</p>
+      <p>Tarjeta 3D, identificación de marca, cupón y comprobante animado en un flujo de pago demostrativo.</p>
+      <p><sub>React · TypeScript · Vite · Animaciones CSS</sub></p>
+      <p><a href="https://checkout-x7rg.contato-rgsantos.workers.dev"><strong>Ver demo ↗</strong></a> · <a href="https://github.com/xx7rg/Checkout">Ver código</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧾 Recibo Digital</h3>
+      <a href="https://recibo-digital.contato-rgsantos.workers.dev">
+        <img src="https://raw.githubusercontent.com/xx7rg/Recibo-Digital/main/docs/screenshots/03-ready.png" alt="Recibo digital preparado en la demostración de x7rG Enterprise" width="440" />
+      </a>
+      <p><strong>Reto:</strong> comunicar de forma visual y tangible la entrega de un comprobante digital.</p>
+      <p>Una experiencia de impresión y corte de recibo con animaciones y respuesta sonora en el navegador.</p>
+      <p><sub>React · TypeScript · CSS · Web Audio API</sub></p>
+      <p><a href="https://recibo-digital.contato-rgsantos.workers.dev"><strong>Ver demo ↗</strong></a> · <a href="https://github.com/xx7rg/Recibo-Digital">Ver código</a></p>
+    </td>
+  </tr>
+</table>
 
-- Diseño moderno
-- Sistema de puntuación
-- Niveles progresivos
-- Interfaz adaptable
+## 🏡 Proyecto web aplicado
 
----
+### Adriano Reformas — Vigo
 
-### 🤖 Automatización con Python
+<a href="https://adrianoreformas.com/">
+  <img src="https://raw.githubusercontent.com/xx7rg/adriano-reformas-vigo/main/selected/hero.jpg" alt="Imagen de presentación del sitio de Adriano Reformas" width="680" />
+</a>
 
-Scripts para:
+**Necesidad:** presentar los servicios y trabajos de un profesional de reformas y facilitar el contacto de posibles clientes.
 
-- Automatización de tareas
-- Gestión de archivos
-- Procesamiento de datos
-- Administración de sistemas
+Sitio con presentación de servicios, galería de trabajos y acceso al contacto, adaptado a móvil y escritorio.
 
----
+**HTML · CSS · JavaScript · Python**
 
-### 🌐 Herramientas de Infraestructura
-
-Proyectos relacionados con:
-
-- Redes
-- Servidores
-- Administración de sistemas
-- Monitoreo
+[**Visitar sitio ↗**](https://adrianoreformas.com/) · [Ver código](https://github.com/xx7rg/adriano-reformas-vigo)
 
 ---
 
@@ -169,7 +204,7 @@ Actualmente busco oportunidades como:
 
 📧 **contato.rgsantos@gmail.com**
 
-💼 LinkedIn: *linkedin.com/in/rgds*
+💼 [LinkedIn — Rogério Gomes](https://www.linkedin.com/in/rgds/)
 
 📍 Linares - Jaén - España
 
