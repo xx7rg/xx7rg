@@ -182,3 +182,15 @@ Actualmente busco oportunidades como:
 Siempre estoy abierto a nuevos desafíos y oportunidades profesionales.
 
 </div>
+
+---
+
+<div align="center">
+
+**© 2026 x7rG ENTERPRISE™** — Todos os direitos reservados.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rgds)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_7ragnar/)
+
+</div>
