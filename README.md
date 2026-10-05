@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/images/x7rg.png" alt="Logo oficial x7rG Enterprise" width="160" />
+
 # Hola! Soy Rogério Gomes
 
 ### 💻 Especialista en Tecnologías de la Información | Infraestructura | Desarrollo | Inteligencia Artificial
@@ -7,6 +9,8 @@
 Soy un profesional de TI con más de **8 años de experiencia** en soporte técnico, infraestructura, administración de sistemas, redes y desarrollo de soluciones tecnológicas.
 
 Actualmente resido en **España** y estoy enfocado en oportunidades relacionadas con **Infraestructura TI, Soporte, Sistemas, Desarrollo de Software, Automatización e Inteligencia Artificial**.
+
+[**Visitar mi portafolio ↗**](https://x7rg-portfolio.contato-rgsantos.workers.dev)
 
 ---
 
@@ -202,7 +206,7 @@ Actualmente busco oportunidades como:
 
 # 📫 Contacto
 
-📧 **contato.rgsantos@gmail.com**
+📧 [**contato.rgsantos@gmail.com**](mailto:contato.rgsantos@gmail.com)
 
 💼 [LinkedIn — Rogério Gomes](https://www.linkedin.com/in/rgds/)
 
